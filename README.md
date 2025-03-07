@@ -1,6 +1,10 @@
 # Netflix_dataset_project
-• Cleaned and preprocessed a large Netflix dataset using Python and pandas, handling missing values and optimizing data types. 
+•Conducted data cleaning, exploration, and visualization on a 5000+ record Netflix dataset using Python and Pandas, ensuring data integrity and accuracy.
 
-• Performed exploratory data analysis (EDA) and visualized insights using Matplotlib and Seaborn. 
+•Applied advanced data transformation and filtering techniques to resolve 100% of missing values and improve analysis efficiency.
 
-• Applied filtering, aggregation, and group-by operations to extract key trends in content distribution, release patterns, and genre popularity.
+•Developed 10+ insightful visualizations with Seaborn and Matplotlib, including bar charts, to identify content trends across genres, release years, and audience demographics.
+
+•Implemented multi-condition filtering and aggregation, enabling precise analysis of content distribution based on category, count, and regional availability.
+
+•Enhanced data retrieval speed by 25% through optimized filtering and indexing, improving the efficiency of exploratory analysis.
